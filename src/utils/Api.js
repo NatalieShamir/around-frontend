@@ -105,5 +105,5 @@ class Api {
 }
 
 export const api = new Api({
-  baseUrl: "https://api.around.full.my.to",
+  baseUrl: "https://api.around.mkm.com.tr",
 }); 

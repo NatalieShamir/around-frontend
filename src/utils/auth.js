@@ -1,4 +1,4 @@
-export const BASE_URL = "https://api.around.full.my.to"
+export const BASE_URL = "https://api.around.mkm.com.tr"
 
 function checkResponse(res) {
     if (res.ok) {
